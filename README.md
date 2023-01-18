@@ -1,1 +1,1 @@
-# pacstall-repo
+# My pacstall repository
